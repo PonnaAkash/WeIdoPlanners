@@ -1,1 +1,2 @@
-# WeIdoPlanners
+# ido_planners
+Event planners
